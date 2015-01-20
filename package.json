@@ -1,0 +1,29 @@
+{
+  "name": "read-json-file",
+  "version": "1.0.0",
+  "description": "Read and parse a JSON file.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "strip-bom": "^1.0.0",
+    "try-parse-json": "^1.0.0"
+  },
+  "devDependencies": {
+    "tape": "^3.4.0"
+  },
+  "scripts": {
+    "test": "node tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewLarner/read-json-file.git"
+  },
+  "author": "Matt Larner <matt.larner.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewLarner/read-json-file/issues"
+  },
+  "homepage": "https://github.com/matthewLarner/read-json-file"
+}
