@@ -17,7 +17,7 @@ readJSON(pathToYourJson, function(error, data){
 
 ### Errors
 
-Returns any fs or Json.Parse() errors.
+Returns any fs or JSON.Parse() errors.
 
 ### Byte order markers
 
